@@ -1,8 +1,8 @@
-🌤️ Weather Website
+# 🌤️ Weather Website
 
-A responsive weather website built using HTML, CSS and JavaScript with WeatherAPI integration.
+A responsive weather website built using **HTML, CSS and JavaScript** with **WeatherAPI integration**.
 
-🚀 Features
+## 🚀 Features
 
 - 🔍 Search weather by city name
 - 📍 Get weather using current location
@@ -15,31 +15,31 @@ A responsive weather website built using HTML, CSS and JavaScript with WeatherAP
 - ⌨️ Search using the Enter key
 - 📱 Responsive design for mobile and desktop
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- DOM Manipulation
-- Fetch API
-- Async/Await
-- Geolocation API
-- WeatherAPI
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **DOM Manipulation**
+- **Fetch API**
+- **Async/Await**
+- **Geolocation API**
+- **WeatherAPI**
 
-📚 JavaScript Concepts Used
+## 📚 JavaScript Concepts Used
 
-- DOM Manipulation
-- Event Handling
-- Keyboard Events
-- Functions
-- Template Literals
-- Object Destructuring
-- Fetch API
-- Async/Await
-- JSON Data Handling
-- Geolocation API
+- **DOM Manipulation**
+- **Event Handling**
+- **Keyboard Events**
+- **Functions**
+- **Template Literals**
+- **Object Destructuring**
+- **Fetch API**
+- **Async/Await**
+- **JSON Data Handling**
+- **Geolocation API**
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 1. The website requests the user's location.
 2. Latitude and longitude are used to fetch weather data.
@@ -48,10 +48,10 @@ A responsive weather website built using HTML, CSS and JavaScript with WeatherAP
 5. DOM manipulation is used to display the weather information.
 6. Users can also search for weather by entering a city name.
 
-🎯 Project Purpose
+## 🎯 Project Purpose
 
-This project was created to practice JavaScript, DOM manipulation, API integration, asynchronous JavaScript, event handling, and responsive web design.
+This project was created to practice **JavaScript, DOM manipulation, API integration, asynchronous JavaScript, event handling, and responsive web design**.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Nitish Kumar
+**Nitish Kumar**
